@@ -1,0 +1,6 @@
+module Pods_CleverTapManualIntegration_CleverTapManualIntegrationUITests {
+  umbrella header "Pods-CleverTapManualIntegration-CleverTapManualIntegrationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

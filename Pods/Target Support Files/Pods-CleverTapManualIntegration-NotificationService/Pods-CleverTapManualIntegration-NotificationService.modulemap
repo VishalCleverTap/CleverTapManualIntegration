@@ -1,0 +1,6 @@
+module Pods_CleverTapManualIntegration_NotificationService {
+  umbrella header "Pods-CleverTapManualIntegration-NotificationService-umbrella.h"
+
+  export *
+  module * { export * }
+}

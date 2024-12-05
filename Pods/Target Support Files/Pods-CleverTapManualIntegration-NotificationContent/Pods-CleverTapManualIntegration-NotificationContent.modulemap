@@ -1,0 +1,6 @@
+module Pods_CleverTapManualIntegration_NotificationContent {
+  umbrella header "Pods-CleverTapManualIntegration-NotificationContent-umbrella.h"
+
+  export *
+  module * { export * }
+}

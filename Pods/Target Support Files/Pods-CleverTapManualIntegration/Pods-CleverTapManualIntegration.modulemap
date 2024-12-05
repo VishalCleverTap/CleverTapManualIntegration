@@ -1,0 +1,6 @@
+module Pods_CleverTapManualIntegration {
+  umbrella header "Pods-CleverTapManualIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}

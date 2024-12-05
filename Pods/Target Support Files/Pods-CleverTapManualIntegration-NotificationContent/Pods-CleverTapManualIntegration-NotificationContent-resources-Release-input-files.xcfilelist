@@ -1,0 +1,21 @@
+${PODS_ROOT}/Target Support Files/Pods-CleverTapManualIntegration-NotificationContent/Pods-CleverTapManualIntegration-NotificationContent-resources.sh
+${PODS_ROOT}/CleverTap-iOS-SDK/CleverTapSDK/AmazonRootCA1.cer
+${PODS_CONFIGURATION_BUILD_DIR}/CleverTap-iOS-SDK/CleverTapSDK.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCore/FirebaseCore_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCoreInternal/FirebaseCoreInternal_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInstallations/FirebaseInstallations_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/FirebaseMessaging/FirebaseMessaging_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleDataTransport/GoogleDataTransport_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleUtilities/GoogleUtilities_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/PromisesObjC/FBLPromises_Privacy.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/nanopb/nanopb_Privacy.bundle
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Resources/ct_next_button.png
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Resources/ct_pause_button.png
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Resources/ct_play_button.png
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Resources/ct_previous_button.png
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Resources/ct_star_filled.png
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Resources/ct_star_outline.png
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Templates/ProductDisplay/View/CTProductDisplayLinearViewController.xib
+${PODS_ROOT}/CTNotificationContent/CTNotificationContent/Templates/ProductDisplay/View/CTProductDisplayVerticalViewController.xib
+${PODS_CONFIGURATION_BUILD_DIR}/CTNotificationContent/CTNotificationContent.bundle

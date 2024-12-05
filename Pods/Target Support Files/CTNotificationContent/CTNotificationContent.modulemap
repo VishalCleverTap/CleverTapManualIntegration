@@ -1,0 +1,6 @@
+module CTNotificationContent {
+  umbrella header "CTNotificationContent-umbrella.h"
+
+  export *
+  module * { export * }
+}
